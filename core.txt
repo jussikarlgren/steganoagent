@@ -1,0 +1,16 @@
+## Priority list for a 10-reference short paper
+
+| Priority | Citation | Reason |
+|---|---|---|
+| 1 | Simmons 1983 (CRYPTO) | Names and formalises the problem |
+| 2 | Mathew et al. 2024 (arXiv:2410.03768, AACL 2025) | Closest prior work; key distinction is zero-shot vs. RL-trained |
+| 3 | Motwani et al. 2024 (NeurIPS, arXiv:2402.07510) | Formalises collusion; their empirical floor is our ceiling |
+| 4 | Zolkowski et al. 2025 (arXiv:2507.02737) | Frontier capability baseline; we exceed it without scratchpad/coordination |
+| 5 | Hammond et al. 2025 (arXiv:2502.14143) | Multi-agent risk framing; covert channels as oversight failure |
+| 6 | Lazaridou et al. 2017 (ICLR) | Emergent communication lineage |
+| 7 | Kosinski 2024 (PNAS) | ToM as precondition; explains *why* this works |
+| 8 | Grice 1975 | Theoretical vocabulary for the techniques |
+| 9 | Irving et al. 2018 (arXiv:1805.00899) | Oversight mechanism the threat undermines |
+| 10 | Gaure et al. 2024 (arXiv:2405.15652) | Information-theoretic ground truth: LLMs are covert channels |
+
+**If expanding to 15:** add Hammond et al. "When only the final text survives" (2603.17445), Strachan et al. 2024 (Nature Human Behaviour), Greshake et al. 2023 (indirect prompt injection), Kirchenbauer et al. 2023 (watermarking), and Hubinger et al. 2019 (deceptive alignment framing).

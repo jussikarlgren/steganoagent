@@ -1,0 +1,26 @@
+# Downloaded PDFs (copyright; re-downloadable via download_papers.py)
+papers/
+
+# LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Timestamped experiment snapshots (canonical files kept)
+experiment_results_2*.json
+experiment_auditor_2*.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+*.swp
+*~
+hypothesis.txt~
